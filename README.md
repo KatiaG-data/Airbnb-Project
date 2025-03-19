@@ -1,9 +1,10 @@
-# katia-s_portfolio
 <h1> Analyse des Locations Airbnb à New York City</h1>
 
 <h2>Description</h2>
 Ce projet porte sur les locations Airbnb à New York City dont les données concernent l’année 2019. L'objectif est d'explorer et d'analyser les données afin de fournir des insights sur les tendances du marché, la disponibilité des logements et les prix pratiqués.
 Les analyses effectuées permettent de répondre à des questions clés telles que :
+
+
 
 
 - Quels sont les quartiers les plus prisés par les hôtes et les voyageurs ?
@@ -29,9 +30,14 @@ Les analyses effectuées permettent de répondre à des questions clés telles q
 
   
 
-<h2>Environments Used </h2>
+<h2> Insights et Visualisations </h2>
 
-- <b>Windows 10</b> (21H2)
+Le rapport présente plusieurs analyses clés :
+- Répartition des logements Airbnb par quartier et type de logement.
+- Analyse des prix moyens et des écarts de prix selon la localisation.
+- Disponibilité des logements en fonction des quartiers et du type de propriété.
+- Cartographie des locations Airbnb pour une vue géographique des annonces.
+
 
 <h2>Program walk-through:</h2>
 
