@@ -17,11 +17,17 @@ Les analyses effectuées permettent de répondre à des questions clés telles q
 
 - [AB_NYC_2019.csv](https://github.com/joshmadakor1/Algorithms-Practice) : Jeu de données brut contenant les informations des annonces Airbnb à New York issu de la base de données Kaagle ([AB_NYC_2019.csv](https://github.com/joshmadakor1/Algorithms-Practice)) 
 - [AB_NYC_2019.csv](https://github.com/joshmadakor1/Algorithms-Practice): Version nettoyée et préparée des données pour l'analyse
-- 
+- [Projet AIRBNB New York.pbix](https://github.com/joshmadakor1/Algorithms-Practice) : Rapport interactif Power BI avec visualisations et analyses.
 
-- 
 
-- <b>Diskpart</b>
+
+<h2> Outils utilisés</h2>
+
+- **Power BI** pour la création de visualisations interactives.
+- **Excel** pour le nettoyage et la préparation des données.
+
+
+  
 
 <h2>Environments Used </h2>
 
