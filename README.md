@@ -25,7 +25,7 @@ Les analyses effectuées permettent de répondre à des questions clés telles q
 <h2> Outils utilisés</h2>
 
 - **Power BI** pour la création de visualisations interactives.
-- **Excel** pour le nettoyage et la préparation des données.
+- **Excel & Power Query** pour le nettoyage et la préparation des données.
 
 
   
