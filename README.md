@@ -1,7 +1,7 @@
 <h1> Analyse des Locations Airbnb à New York City</h1>
 
 <h2>Description</h2>
-À la demande de l’équipe Business Strategy d’Airbnb, l’équipe Data Analytics a été chargée d’analyser les données de location à New York City pour l’année 2019. Cette étude vise à fournir aux équipes Marketing et Partenariats Locaux des insights exploitables sur les tendances de marché, la disponibilité des logements et la tarification, dans le but d’optimiser l’offre de la plateforme, améliorer l’expérience utilisateur et soutenir les décisions stratégiques à l’échelle locale.
+À la demande de l’équipe **Business Strategy** d’Airbnb, l’équipe Data a été chargée d’analyser les données de location à New York City pour l’année 2019. Cette étude vise à fournir aux équipes **Marketing et Partenariats Locaux** des insights exploitables sur les tendances de marché, la disponibilité des logements et la tarification, dans le but d’optimiser l’offre de la plateforme, améliorer l’expérience utilisateur et soutenir les décisions stratégiques à l’échelle locale.
 
 
 <h2> Contenu du projet</h2>
