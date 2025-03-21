@@ -1,6 +1,6 @@
 <h1> Analyse des Locations Airbnb à New York City</h1>
 
-<h2>Description</h2>
+<h2>Introduction</h2>
 
 Airbnb est une plateforme en ligne de location de logements de courte durée, qui met en relation des hôtes (propriétaires ou gestionnaires de biens) et des voyageurs dans le monde entier. Présente dans plus de 190 pays, elle joue un rôle central dans l’économie collaborative et le tourisme alternatif.
 
