@@ -27,10 +27,29 @@ Dans le cadre de ses activités à New York City, l’équipe <b>Business Strate
 
 <h2>Analyse des résultats</h2>
 
-L’analyse des données Airbnb à New York City pour l’année 2019 met en lumière plusieurs tendances clés du marché de la location de courte durée. Sur <b>les 21 512 logements analysés, le prix moyen par nuit s’élève à 142,55 $,</b> reflétant une offre globalement positionnée dans le milieu de gamme, avec des variations importantes selon les quartiers. La majorité des annonces concernent <b>des logements entiers (50,9 %)</b>, suivis de près par <b>les chambres privées (46,4 %)</b>, ce qui traduit une préférence marquée des hôtes pour une gestion autonome des séjours.
+Sur <b>les 21 512 logements analysés, le prix moyen par nuit s’élève à 142,55 $,</b> reflétant une offre globalement positionnée dans le milieu de gamme, avec des variations importantes selon les quartiers. La majorité des annonces concernent <b>des logements entiers (50,9 %)</b>, suivis de près par <b>les chambres privées (46,4 %)</b>, ce qui traduit une préférence marquée des hôtes pour une gestion autonome des séjours.
 
 Du côté de la demande, les quartiers les plus populaires sont majoritairement situés à Brooklyn et Manhattan, avec Bedford-Stuyvesant, Williamsburg et Harlem en tête, cumulant chacun plusieurs dizaines de milliers de commentaires clients. Ces zones se distinguent par leur attractivité culturelle et leur accessibilité, mais également par des niveaux de prix hétérogènes.
 
 L’étude souligne également des disparités tarifaires importantes entre les différents quartiers, visibles dans le tableau dédié, ce qui peut guider les décisions d’investissement ou de stratégie marketing.
 
+<h2>Recommandations</h2>
+
+Cette étude montre une concentration importante de l’offre Airbnb dans les quartiers de Manhattan et Brooklyn, ainsi que des écarts de prix considérables selon la localisation et le type de logement. Ces constats offrent plusieurs champs d’action pour les équipes Marketing, Stratégie Produit et Développement des Partenariats Locaux.
+
+- <b>Renforcer la présence dans les zones à forte demande</b>  
+
+Mettre en avant les hôtes performants et proposer des outils de pricing dynamique dans des quartiers comme Williamsburg, Harlem ou Bedford-Stuyvesant.
+
+- <b>Valoriser les quartiers émergents</b>
+
+Cibler les voyageurs avec des campagnes localisées pour des zones comme le Queens ou le Bronx, et accompagner les nouveaux hôtes avec des incitations adaptées.
+
+- <b>Optimiser la stratégie tarifaire par typologie</b>
+
+Fournir aux hôtes des benchmarks de prix et des recommandations selon le type de logement et la zone géographique.
+
+- <b>Appuyer les décisions locales par les données</b>
+
+Mettre à disposition des équipes une cartographie des zones à potentiel, pour orienter les actions terrain et les partenariats institutionnels.
 
