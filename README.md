@@ -34,7 +34,7 @@ Le rapport présente plusieurs analyses clés :
 
 <h2>Aperçu du dashboard interactif crée sur Power BI :</h2>
 
-<img src="https://github.com/KatiaG-data/Airbnb-Project/blob/main/Screenshot%202025-03-19%20134343.png"/>
+<img src="https://github.com/KatiaG-data/Airbnb-Project/blob/main/Screenshot%202025-03-21.png"/>
 
 <h2>Analyse des résultats</h2>
 
