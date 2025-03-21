@@ -21,17 +21,6 @@ Dans le cadre de ses activités à New York City, l’équipe <b>Business Strate
 - **Excel & Power Query** pour le nettoyage et la préparation des données.
 
 
-  
-
-<h2> Insights et Visualisations </h2>
-
-Le rapport présente plusieurs analyses clés :
-- Répartition des logements Airbnb par quartier et type de logement.
-- Analyse des prix moyens et des écarts de prix selon la localisation.
-- Disponibilité des logements en fonction des quartiers et du type de propriété.
-- Cartographie des locations Airbnb pour une vue géographique des annonces.
-
-
 <h2>Aperçu du dashboard interactif crée sur Power BI :</h2>
 
 <img src="https://github.com/KatiaG-data/Airbnb-Project/blob/main/Screenshot%202025-03-21.png"/>
