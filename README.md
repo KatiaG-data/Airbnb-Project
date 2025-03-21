@@ -1,17 +1,7 @@
 <h1> Analyse des Locations Airbnb à New York City</h1>
 
 <h2>Description</h2>
-Ce projet porte sur les locations Airbnb à New York City dont les données concernent l’année 2019. L'objectif est d'explorer et d'analyser les données afin de fournir des insights sur les tendances du marché, la disponibilité des logements et les prix pratiqués.
-Les analyses effectuées permettent de répondre à des questions clés telles que :
-
-
-
-
-- Quels sont les quartiers les plus prisés par les hôtes et les voyageurs ?
-- Quel est le prix moyen par quartier et par type de logement ?
-- Comment évolue la disponibilité des logements ?
-- Existe-t-il des tendances saisonnières ou des disparités géographiques ?
-
+À la demande de l’équipe Business Strategy d’Airbnb, l’équipe Data Analytics a été chargée d’analyser les données de location à New York City pour l’année 2019. Cette étude vise à fournir aux équipes Marketing et Partenariats Locaux des insights exploitables sur les tendances de marché, la disponibilité des logements et la tarification, dans le but d’optimiser l’offre de la plateforme, améliorer l’expérience utilisateur et soutenir les décisions stratégiques à l’échelle locale.
 
 
 <h2> Contenu du projet</h2>
