@@ -31,6 +31,6 @@ L’analyse des données Airbnb à New York City pour l’année 2019 met en lum
 
 Du côté de la demande, les quartiers les plus populaires sont majoritairement situés à Brooklyn et Manhattan, avec Bedford-Stuyvesant, Williamsburg et Harlem en tête, cumulant chacun plusieurs dizaines de milliers de commentaires clients. Ces zones se distinguent par leur attractivité culturelle et leur accessibilité, mais également par des niveaux de prix hétérogènes.
 
-L’étude souligne également des disparités tarifaires importantes entre les différents boroughs, visibles dans le tableau dédié, ce qui peut guider les décisions d’investissement ou de stratégie marketing.
+L’étude souligne également des disparités tarifaires importantes entre les différents quartiers, visibles dans le tableau dédié, ce qui peut guider les décisions d’investissement ou de stratégie marketing.
 
 
