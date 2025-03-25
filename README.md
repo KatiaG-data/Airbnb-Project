@@ -37,19 +37,11 @@ L’étude souligne également des disparités tarifaires importantes entre les 
 
 Cette étude montre une concentration importante de l’offre Airbnb dans les quartiers de Manhattan et Brooklyn, ainsi que des écarts de prix considérables selon la localisation et le type de logement. Ces constats offrent plusieurs champs d’action pour les équipes Marketing, Stratégie Produit et Développement des Partenariats Locaux.
 
-- <b>Renforcer la présence dans les zones à forte demande</b>  
+- <b>Renforcer la présence dans les zones à forte demande</b> : Mettre en avant les hôtes performants et proposer des outils de pricing dynamique dans des quartiers comme Williamsburg, Harlem ou Bedford-Stuyvesant.
 
-Mettre en avant les hôtes performants et proposer des outils de pricing dynamique dans des quartiers comme Williamsburg, Harlem ou Bedford-Stuyvesant.
+- <b>Valoriser les quartiers émergents</b> : Cibler les voyageurs avec des campagnes localisées pour des zones comme le Queens ou le Bronx, et accompagner les nouveaux hôtes avec des incitations adaptées.
 
-- <b>Valoriser les quartiers émergents</b>
+- <b>Optimiser la stratégie tarifaire par typologie</b> : Fournir aux hôtes des benchmarks de prix et des recommandations selon le type de logement et la zone géographique.
 
-Cibler les voyageurs avec des campagnes localisées pour des zones comme le Queens ou le Bronx, et accompagner les nouveaux hôtes avec des incitations adaptées.
-
-- <b>Optimiser la stratégie tarifaire par typologie</b>
-
-Fournir aux hôtes des benchmarks de prix et des recommandations selon le type de logement et la zone géographique.
-
-- <b>Appuyer les décisions locales par les données</b>
-
-Mettre à disposition des équipes une cartographie des zones à potentiel, pour orienter les actions terrain et les partenariats institutionnels.
+- <b>Appuyer les décisions locales par les données</b> : Mettre à disposition des équipes une cartographie des zones à potentiel, pour orienter les actions terrain et les partenariats institutionnels.
 
