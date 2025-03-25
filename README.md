@@ -29,9 +29,9 @@ Dans le cadre de ses activités à New York City, l’équipe <b>Business Strate
 
 Sur <b>les 21 512 logements analysés, le prix moyen par nuit s’élève à 142,55 $,</b> reflétant une offre globalement positionnée dans le milieu de gamme, avec des variations importantes selon les quartiers. La majorité des annonces concernent <b>des logements entiers (50,9 %)</b>, suivis de près par <b>les chambres privées (46,4 %)</b>, ce qui traduit une préférence marquée des hôtes pour une gestion autonome des séjours.
 
-Du côté de la demande, les quartiers les plus populaires sont majoritairement situés à Brooklyn et Manhattan, avec Bedford-Stuyvesant, Williamsburg et Harlem en tête, cumulant chacun plusieurs dizaines de milliers de commentaires clients. Ces zones se distinguent par leur attractivité culturelle et leur accessibilité, mais également par des niveaux de prix hétérogènes.
+Du côté de la demande, les quartiers les plus populaires sont majoritairement situés à **Brooklyn et Manhattan**, avec Bedford-Stuyvesant, Williamsburg et Harlem en tête, cumulant chacun plusieurs dizaines de milliers de commentaires clients. Ces zones se distinguent par leur attractivité culturelle et leur accessibilité, mais également par des niveaux de prix hétérogènes.
 
-L’étude souligne également des disparités tarifaires importantes entre les différents quartiers, visibles dans le tableau dédié, ce qui peut guider les décisions d’investissement ou de stratégie marketing.
+Aussi,  des disparités tarifaires importantes apparaissent entre les différents quartiers,  ce qui peut guider les décisions d’investissement ou de stratégie marketing.
 
 <h2>Recommandations</h2>
 
