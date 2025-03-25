@@ -35,7 +35,7 @@ L’étude souligne également des disparités tarifaires importantes entre les 
 
 <h2>Recommandations</h2>
 
-Cette étude montre une concentration importante de l’offre Airbnb dans les quartiers de Manhattan et Brooklyn, ainsi que des écarts de prix considérables selon la localisation et le type de logement. Ces constats offrent plusieurs champs d’action pour les équipes Marketing, Stratégie Produit et Développement des Partenariats Locaux.
+Cette étude montre une forte concentration de l’offre Airbnb dans les quartiers de Manhattan et Brooklyn, ainsi que des écarts de prix considérables selon la localisation et le type de logement. Ces constats offrent différents champs d’action pour les équipes Marketing, Stratégie Produit et Développement des Partenariats Locaux.
 
 - <b>Renforcer la présence dans les zones à forte demande</b> : Mettre en avant les hôtes performants et proposer des outils de pricing dynamique dans des quartiers comme Williamsburg, Harlem ou Bedford-Stuyvesant.
 
